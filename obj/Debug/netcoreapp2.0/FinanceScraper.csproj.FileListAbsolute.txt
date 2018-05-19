@@ -1,0 +1,11 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/bin/Debug/netcoreapp2.0/FinanceScraper.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/bin/Debug/netcoreapp2.0/FinanceScraper.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/bin/Debug/netcoreapp2.0/FinanceScraper.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/bin/Debug/netcoreapp2.0/FinanceScraper.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/bin/Debug/netcoreapp2.0/FinanceScraper.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.csprojResolveAssemblyReference.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/FinanceScraper/obj/Debug/netcoreapp2.0/FinanceScraper.pdb
